@@ -17,7 +17,7 @@ const Home = () => {
 
 
   const handlelogout = () => {
-    logout(); // Call this function to log in the user
+    logout(); 
   };
   return (
     <div>
