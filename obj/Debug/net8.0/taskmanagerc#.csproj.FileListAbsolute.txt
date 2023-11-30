@@ -1,0 +1,15 @@
+C:\Users\abdi\taskmanagerc#\bin\Debug\net8.0\taskmanagerc#.exe
+C:\Users\abdi\taskmanagerc#\bin\Debug\net8.0\taskmanagerc#.deps.json
+C:\Users\abdi\taskmanagerc#\bin\Debug\net8.0\taskmanagerc#.runtimeconfig.json
+C:\Users\abdi\taskmanagerc#\bin\Debug\net8.0\taskmanagerc#.dll
+C:\Users\abdi\taskmanagerc#\bin\Debug\net8.0\taskmanagerc#.pdb
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.AssemblyInfoInputs.cache
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.AssemblyInfo.cs
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.csproj.CoreCompileInputs.cache
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.sourcelink.json
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.dll
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\refint\taskmanagerc#.dll
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.pdb
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\taskmanagerc#.genruntimeconfig.cache
+C:\Users\abdi\taskmanagerc#\obj\Debug\net8.0\ref\taskmanagerc#.dll
