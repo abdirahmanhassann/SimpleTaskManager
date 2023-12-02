@@ -14,8 +14,6 @@ const Home = () => {
     setSearchTerm(event.target.value);
     // Pass the search term to the parent component (or a callback function)
   };
-
-
   const handlelogout = () => {
     logout(); 
   };

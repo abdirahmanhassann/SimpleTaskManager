@@ -1,0 +1,11 @@
+C:\Users\abdi\taskmanager\taskmanager.contracts\bin\Debug\net8.0\taskmanager.contracts.deps.json
+C:\Users\abdi\taskmanager\taskmanager.contracts\bin\Debug\net8.0\taskmanager.contracts.dll
+C:\Users\abdi\taskmanager\taskmanager.contracts\bin\Debug\net8.0\taskmanager.contracts.pdb
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\taskmanager.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\taskmanager.contracts.AssemblyInfoInputs.cache
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\taskmanager.contracts.AssemblyInfo.cs
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\taskmanager.contracts.csproj.CoreCompileInputs.cache
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\taskmanager.contracts.dll
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\refint\taskmanager.contracts.dll
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\taskmanager.contracts.pdb
+C:\Users\abdi\taskmanager\taskmanager.contracts\obj\Debug\net8.0\ref\taskmanager.contracts.dll
